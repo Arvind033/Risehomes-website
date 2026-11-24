@@ -1,0 +1,18 @@
+:root {
+  --color-teal: #0D4D4E;
+  --color-gold: #D4AF37;
+  --color-white: #FFFFFF;
+  --color-text: #242828;
+  --color-muted: #606767;
+  --color-light-background: #F5F6F6;
+  --color-border: #DADDDD;
+  --color-surface: var(--color-white);
+  --color-focus: var(--color-teal);
+
+  --font-heading: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Manrope', 'Helvetica Neue', sans-serif;
+  --container-width: 78rem;
+  --container-gutter: 1.25rem;
+  --radius-small: 0.25rem;
+  --section-spacing: 4rem;
+}
